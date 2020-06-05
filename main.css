@@ -1,0 +1,21 @@
+* { margin: 0; padding: 0; }
+
+html, body {
+  height: 100%;
+}
+
+#clock {
+  text-align: center; 
+  position: relative;
+  top: 50%;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 130px;
+  margin-top: -75px;
+  color: white;
+  background: url(asstets/f940d18318f97e46f13a5d2878fcec49.png);
+  padding: 3rem;
+}
+
+
+
+
